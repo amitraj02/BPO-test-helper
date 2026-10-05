@@ -1,7 +1,5 @@
 # BPO Prep AI – AI-Powered Concentrix US BPO Non-Voice Assessment Preparation
 
-![BPO Prep AI Architecture](./project_BPO%20prep%20AI.png)
-
 An interactive, AI-powered recruitment assessment preparation platform designed for candidates preparing for **Concentrix US BPO Non-Voice (Email & Chat Support)** hiring rounds in Bengaluru and global hubs.
 
 ---
